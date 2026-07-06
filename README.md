@@ -137,7 +137,7 @@ src/
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/MiladSadeghi/webworker-vs-main-thread
+   git clone https://github.com/MiladSadeghi/webworker-vs-main-thread.git
    cd project
    ```
 2. Install the dependencies:
